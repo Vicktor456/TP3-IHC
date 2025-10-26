@@ -1,11 +1,11 @@
 # Briefing
 
-# Matriz-csd
+# Matriz CSD
 
 # Benchmarking
 
 # Personas
 
-# Jornada-do-usuario
+# Jornada do Usuario
 
-# Moscow
+# MosCoW
