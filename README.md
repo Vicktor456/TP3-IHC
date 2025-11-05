@@ -9,7 +9,7 @@ O propósito desta primeira etapa do TP3 é guiar as ações preliminares do Des
 - Ana Paula Melo de Souza
 - Davi Vitor Santos Mota
 - David Análio Alfaia dos Santos
-- Isabely Cristine Barbosa Beça
+- Isabely Cristina Barbosa Beça
 - Vicktor Eduardo Almeida Pinheiro.
 - Thiago Vasconcelos de Assunção.
  
