@@ -8,7 +8,7 @@ O propósito desta primeira etapa do TP3 é guiar as ações preliminares do Des
 ## Integrantes
 - Ana Paula Melo de Souza
 - Davi Vitor Santos Mota
-- David Análio dos Santos Alfaia
+- David Análio Alfaia dos Santos
 - Isabely Cristine Barbosa Beça
 - Vicktor Eduardo Almeida Pinheiro.
 - Thiago Vasconcelos de Assunção.
