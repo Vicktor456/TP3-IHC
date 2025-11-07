@@ -1,6 +1,8 @@
-# Personas
+# Como foi elaborada as Personas
 
-A equipe se juntou e estabeleceu a descrição de três personas, segue a descrição com as características de cada uma:
+Com base nas informações coletadas durante as entrevistas e análises do público-alvo, foram desenvolvidas três personas que representam os principais perfis de usuários do sistema. Considerando que o aplicativo é voltado para auxiliar pessoas idosas em transações Pix, a primeira persona foi construída como uma pessoa idosa e com necessidades de acessibilidade, refletindo a realidade de usuários com pouca familiaridade tecnológica e receio no uso de aplicativos bancários.
+
+Além dela, foram criadas mais duas personas complementares: um tutor de idoso, que representa o perfil de apoio e assistência durante o uso do sistema, e um usuário comum, que simboliza pessoas interessadas em uma solução prática e segura para transações financeiras. Essas personas foram elaboradas para abranger diferentes contextos de uso e garantir que o aplicativo atenda às necessidades de acessibilidade, segurança e usabilidade de todos os públicos.
 
 ### Persona 1:
 
