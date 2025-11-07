@@ -7,6 +7,7 @@ A partir dessa ideia inicial, foram mapeadas as possíveis pessoas a serem entre
 Posteriormente, foi aplicado um pequeno teste de usabilidade com o objetivo de selecionar e refinar o grupo de participantes — excluindo gradualmente aqueles que não correspondiam ao perfil desejado, até restar a pessoa mais adequada para contribuir com a pesquisa.
 
 Com essa participante selecionada, foram aplicadas as perguntas-padrão do briefing. Todas as respostas foram devidamente registradas, analisadas e formalizadas, servindo como base para o desenvolvimento das diretrizes de design e usabilidade do sistema.
+# 
 
 ### **Funcionalidade esperada**
  O cliente deseja que o sistema seja focado exclusivamente em transações Pix, sem incluir outras funcionalidades típicas de bancos digitais, como empréstimos ou pagamento de boletos. O principal objetivo é oferecer simplicidade e agilidade nas operações Pix, garantindo uma experiência intuitiva, sem necessidade de aprendizado adicional por parte do usuário.
