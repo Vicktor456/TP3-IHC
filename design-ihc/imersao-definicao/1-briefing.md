@@ -1,5 +1,13 @@
 # Brienfing
 
+O desenvolvimento do sistema teve início com a definição de sua proposta central: criar uma solução digital voltada para facilitar o uso de transações Pix por pessoas idosas, público que frequentemente enfrenta dificuldades em lidar com plataformas bancárias convencionais.
+
+A partir dessa ideia inicial, foram mapeadas as possíveis pessoas a serem entrevistadas, considerando especialmente a faixa etária e o perfil de usuários que representassem o público-alvo. Em seguida, realizou-se uma breve rodada de entrevistas com perguntas básicas sobre as dificuldades encontradas no uso de aplicativos de bancos.
+
+Posteriormente, foi aplicado um pequeno teste de usabilidade com o objetivo de selecionar e refinar o grupo de participantes — excluindo gradualmente aqueles que não correspondiam ao perfil desejado, até restar a pessoa mais adequada para contribuir com a pesquisa.
+
+Com essa participante selecionada, foram aplicadas as perguntas-padrão do briefing. Todas as respostas foram devidamente registradas, analisadas e formalizadas, servindo como base para o desenvolvimento das diretrizes de design e usabilidade do sistema.
+
 ### **Funcionalidade esperada**
  O cliente deseja que o sistema seja focado exclusivamente em transações Pix, sem incluir outras funcionalidades típicas de bancos digitais, como empréstimos ou pagamento de boletos. O principal objetivo é oferecer simplicidade e agilidade nas operações Pix, garantindo uma experiência intuitiva, sem necessidade de aprendizado adicional por parte do usuário.
 
