@@ -1,12 +1,21 @@
 # Brienfing
+## Definição da Ideia e Identificação da Demanda
 
-O desenvolvimento do sistema teve início com a definição de sua proposta central: criar uma solução digital voltada para facilitar o uso de transações Pix por pessoas idosas, público que frequentemente enfrenta dificuldades em lidar com plataformas bancárias convencionais.
+O desenvolvimento do sistema teve início a partir da busca por uma demanda real que pudesse ser solucionada por meio da tecnologia. Para isso, a equipe analisou diversas situações do cotidiano, refletindo sobre atividades comuns nas quais ainda existiam barreiras de acessibilidade ou usabilidade. Durante esse mapeamento, identificou-se que muitos idosos enfrentam dificuldades ao utilizar aplicativos bancários, especialmente em operações simples, como o Pix.
+
+A partir dessa constatação e de algumas pesquisas iniciais sobre o tema, percebeu-se um déficit significativo na forma como os bancos virtuais atendem esse público, seja pela complexidade das interfaces, seja pela falta de recursos de acessibilidade adequados. Assim, a proposta do sistema foi definida: desenvolver uma solução digital voltada a facilitar e tornar mais segura a experiência de transações Pix para pessoas idosas.
+
+# 
 
 A partir dessa ideia inicial, foram mapeadas as possíveis pessoas a serem entrevistadas, considerando especialmente a faixa etária e o perfil de usuários que representassem o público-alvo. Em seguida, realizou-se uma breve rodada de entrevistas com perguntas básicas sobre as dificuldades encontradas no uso de aplicativos de bancos.
 
 Posteriormente, foi aplicado um pequeno teste de usabilidade com o objetivo de selecionar e refinar o grupo de participantes — excluindo gradualmente aqueles que não correspondiam ao perfil desejado, até restar a pessoa mais adequada para contribuir com a pesquisa.
 
 Com essa participante selecionada, foram aplicadas as perguntas-padrão do briefing. Todas as respostas foram devidamente registradas, analisadas e formalizadas, servindo como base para o desenvolvimento das diretrizes de design e usabilidade do sistema.
+
+### Foto da Reunião com cliente
+
+<img width="800" height="555" alt="image" src="https://github.com/user-attachments/assets/0fb7dd36-a88e-49a3-ba45-80784e47e462" />
 # 
 
 ### **Funcionalidade esperada**
