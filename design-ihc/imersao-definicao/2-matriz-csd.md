@@ -11,10 +11,11 @@ Suposições (S) → aquilo que imaginamos ou acreditamos que seja verdade, mas 
 
 Dúvidas (D) → perguntas que ainda não conseguimos responder e pontos que exigem investigação.
 
-Essa matriz ajuda a deixar claro o que já está definido, o que ainda precisa ser validado e o que precisa ser pesquisado, facilitando a tomada de decisão e o direcionamento do projeto.
+Essa matriz ajuda a deixar claro o que já está definido, o que ainda precisa ser validado e o que precisa ser pesquisado, facilitando a tomada de decisão e o direcionamento do projeto. Com base nas informações obtidas durante o briefing e na coleta das respostas do cliente, a equipe se reuniu para estruturar e definir os elementos que compõem a Matriz CSD (Certezas, Suposições e Dúvidas).
+
 Nesse processo, todas as respostas foram cuidadosamente catalogadas e analisadas, permitindo identificar os pontos mais relevantes da entrevista. A partir dessas discussões, a equipe definiu de forma colaborativa quais informações seriam classificadas como certezas, suposições e dúvidas, consolidando um panorama claro sobre o entendimento atual do projeto e os aspectos que ainda exigem investigação ou validação.
 
-Com base nas informações obtidas durante o briefing e na coleta das respostas do cliente, a equipe se reuniu para estruturar e definir os elementos que compõem a Matriz CSD (Certezas, Suposições e Dúvidas).
+
 
 
 
