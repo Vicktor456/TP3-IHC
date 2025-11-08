@@ -3,10 +3,11 @@
 Com base nas informações coletadas durante as entrevistas e análises do público-alvo, foram desenvolvidas três personas que representam os principais perfis de usuários do sistema. Considerando que o aplicativo é voltado para auxiliar pessoas idosas em transações Pix, a primeira persona foi construída como uma pessoa idosa e com necessidades de acessibilidade, refletindo a realidade de usuários com pouca familiaridade tecnológica e receio no uso de aplicativos bancários.
 
 Além dela, foram criadas mais duas personas complementares: um tutor de idoso, que representa o perfil de apoio e assistência durante o uso do sistema, e um usuário comum, que simboliza pessoas interessadas em uma solução prática e segura para transações financeiras. Essas personas foram elaboradas para abranger diferentes contextos de uso e garantir que o aplicativo atenda às necessidades de acessibilidade, segurança e usabilidade de todos os públicos.
+# 
 
 ### Persona 1:
 
-A primeira persona é um idoso que se sente apreensivo ao navegar na internet, pois é uma pessoa extremamente cuidadosa que preza pela sua segurança. Ele gosta de aplicativos que transmitem clareza e que são fáceis de usar, já que utiliza bastante a internet para comunicação e realização de transações bancárias.
+A persona José Almeida foi criada como base do público-alvo do aplicativo, representando o idoso com pouca familiaridade tecnológica. Sua construção considerou dados sobre o uso de apps por pessoas idosas, identificando dificuldades de usabilidade e insegurança em sistemas complexos. Assim, José simboliza o usuário que busca simplicidade, clareza e segurança ao realizar operações digitais.
 # 
 ![Velhote](https://github.com/user-attachments/assets/b0a98c93-c396-4a5d-8be0-478d7c1b1fb4)
 
