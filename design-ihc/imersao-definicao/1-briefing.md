@@ -6,12 +6,14 @@ O desenvolvimento do sistema teve início a partir da busca por uma demanda real
 A partir dessa constatação e de algumas pesquisas iniciais sobre o tema, percebeu-se um déficit significativo na forma como os bancos virtuais atendem esse público, seja pela complexidade das interfaces, seja pela falta de recursos de acessibilidade adequados. Assim, a proposta do sistema foi definida: desenvolver uma solução digital voltada a facilitar e tornar mais segura a experiência de transações Pix para pessoas idosas.
 
 # 
+## Mapeamento e Seleção do Cliente para o Briefing
+Com a proposta do sistema já definida, iniciou-se o processo de mapeamento e seleção de um cliente adequado para participar do briefing. O objetivo dessa etapa foi encontrar alguém que pudesse contribuir de forma efetiva para a compreensão das dificuldades enfrentadas por pessoas idosas no uso de aplicativos bancários e sistemas de transações digitais.
 
-A partir dessa ideia inicial, foram mapeadas as possíveis pessoas a serem entrevistadas, considerando especialmente a faixa etária e o perfil de usuários que representassem o público-alvo. Em seguida, realizou-se uma breve rodada de entrevistas com perguntas básicas sobre as dificuldades encontradas no uso de aplicativos de bancos.
+Durante o processo de escolha, optou-se por buscar um cliente com conhecimento prévio em tecnologia, de modo que a entrevista pudesse ocorrer de forma mais fluida e permitir a extração de informações detalhadas e consistentes sobre as principais necessidades e barreiras do público-alvo. Assim, foi realizado um processo de seleção gradual, com base em conversas exploratórias e observações sobre a familiaridade de cada candidato com o tema.
 
-Posteriormente, foi aplicado um pequeno teste de usabilidade com o objetivo de selecionar e refinar o grupo de participantes — excluindo gradualmente aqueles que não correspondiam ao perfil desejado, até restar a pessoa mais adequada para contribuir com a pesquisa.
+Após essa triagem, foi escolhido o cliente que melhor se encaixava no perfil desejado, possibilitando uma entrevista mais objetiva e informativa. Durante essa conversa, aplicou-se o formulário obrigatório de briefing, composto por perguntas que visavam compreender as funcionalidades esperadas, o público-alvo, os cenários de uso, as prioridades e os padrões de interface do sistema.
 
-Com essa participante selecionada, foram aplicadas as perguntas-padrão do briefing. Todas as respostas foram devidamente registradas, analisadas e formalizadas, servindo como base para o desenvolvimento das diretrizes de design e usabilidade do sistema.
+Todas as respostas foram registradas, analisadas e formalizadas, servindo como base para a definição das diretrizes de design e usabilidade do aplicativo, garantindo que o sistema fosse desenvolvido com foco em simplicidade, segurança e acessibilidade.
 
 ### Foto da Reunião com cliente
 
