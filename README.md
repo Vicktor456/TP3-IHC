@@ -5,13 +5,13 @@
 
 O propósito desta primeira etapa do TP3 é guiar as ações preliminares do Design de Interação Humano-Computador (IHC), cobrindo as fases de Imersão e Definição. É fundamental que o artefato final atenda a uma necessidade prática e existente, identificada com um cliente, sendo esta a criação de uma solução digital focada unicamente em transações Pix. O sistema deve deliberadamente excluir funcionalidades complexas de bancos digitais (como empréstimos ou pagamento de boletos) para garantir simplicidade e agilidade nas operações e uma experiência intuitiva que dispense aprendizado adicional. O público-alvo são pessoas de mais idade com dificuldade em aplicativos convencionais, e, por isso, o design priorizará legibilidade e navegação intuitiva, facilitando o acesso rápido e descomplicado ao Pix, mesmo em dispositivos mais simples ou de baixo desempenho.
 
-## Integrantes
-- Ana Paula Melo de Souza
-- Davi Vitor Santos Mota
-- David Análio Alfaia dos Santos
-- Isabely Cristina Barbosa Beça
-- Vicktor Eduardo Almeida Pinheiro.
-- Thiago Vasconcelos de Assunção.
+## Integrantes+-
+- Ana Paula Melo de Souza - 2251469
+- Davi Vitor Santos Mota - 22552367
+- David Análio Alfaia dos Santos - 22552724
+- Isabely Cristina Barbosa Beça - 22551984
+- Vicktor Eduardo Almeida Pinheiro - 22552978
+- Thiago Vasconcelos de Assunção - 22551840
  
 
 ## Curso
