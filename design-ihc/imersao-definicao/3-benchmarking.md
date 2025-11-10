@@ -52,4 +52,64 @@ O BMG é um banco digital com especialização em produtos consignados, sendo um
 
 ### Sistema 4: Banco Caixa 
 
-A Caixa é o banco público brasileiro de maior capilaridade, sendo responsável pelo pagamento da maioria dos benefícios sociais, aposentadorias e pensões. Por ser o banco de primeiro contato para muitos idosos (principalmente em relação ao recebimento de benefícios), é amplamente utilizado por esse público, embora muitas vezes via canais tradicionais (agências e caixas eletrônicos). Seu aplicativo móvel (Caixa) é extremamente complexo e multifuncional, e a navegação para o Pix é dificultada pela vasta gama de serviços disponíveis (FGTS, Habitação, Loterias, etc.), tornando-o um forte exemplo de alta complexidade e baixa usabilidade para a população idosa no ambiente digital. 
+A Caixa é o banco público brasileiro de maior capilaridade, sendo responsável pelo pagamento da maioria dos benefícios sociais, aposentadorias e pensões. Por ser o banco de primeiro contato para muitos idosos (principalmente em relação ao recebimento de benefícios), é amplamente utilizado por esse público, embora muitas vezes via canais tradicionais (agências e caixas eletrônicos). Seu aplicativo móvel (Caixa) é extremamente complexo e multifuncional, e a navegação para o Pix é dificultada pela vasta gama de serviços disponíveis (FGTS, Habitação, Loterias, etc.), tornando-o um forte exemplo de alta complexidade e baixa usabilidade para a população idosa no ambiente digital.
+
+
+## Estabelecimento de Indicadores e Obtenção de Dados 
+
+
+### Sistema 1 – Banco Mercantil 
+
+#### Quais problemas o produto resolve? 
+
+Resolve as necessidades financeiras completas (conta, Pix, pagamentos, crédito) do cliente, com foco primário em aposentados e pensionistas. Permite que esse público acesse o Pix e gerencie seus benefícios de forma digital, reduzindo a dependência de agências físicas. 
+
+#### Como os problemas são resolvidos? 
+
+Através de um aplicativo de mobile banking completo que integra todas as funcionalidades (incluindo Pix) em uma única interface. A reputação de longa data e a rede de atendimento físico fornecem um diferencial de confiança para o público-alvo. 
+
+#### Quais os pontos fortes e fracos dessas soluções? 
+
+Fortes (Baseados nas Variáveis): Reputação/Atendimento (Confiança histórica no nicho idoso). Contatos/Chaves Favoritas (Funcionalidade padrão de mercado, provavelmente presente). Uso de Biometria para Transações (Recurso de segurança padrão). Fracos (Baseados em IHC/Foco no Idoso): Agilidade/Modernização (Design de aplicativo mais tradicional, menos focado em simplicidade radical). Mecanismos de Antigolpe/Alerta (Alertas tendem a ser genéricos). Área de Suporte em Destaque (Suporte não é o foco principal da tela inicial). Chatbot ou FAQ de Autoatendimento (Pode não ser intuitivo para o público idoso). 
+
+### Sistema 2 – Agibank 
+
+#### Quais problemas o produto resolve? 
+
+Resolve a necessidade de uma conta digital moderna e gratuita com Pix para aposentados e pensionistas, combinando serviços bancários com a principal oferta de crédito consignado. O produto resolve o problema de acesso à modernidade para o público idoso. 
+
+#### Como os problemas são resolvidos? 
+
+Através de um aplicativo digital moderno. O Pix é integrado, mas o sistema utiliza a tela inicial para exibir ofertas de crédito e produtos (o motor principal do banco). A Agilidade/Modernização é alta, mas a simplicidade é comprometida. 
+
+####Quais os pontos fortes e fracos dessas soluções? 
+
+Fortes (Baseados nas Variáveis): Agilidade/Modernização (Design moderno, interface rápida). Uso de Biometria para Transações (Prática padrão em bancos digitais). Contatos/Chaves Favoritas (Funcionalidade Pix moderna e eficaz). Fracos (Baseados em IHC/Foco no Idoso): Mecanismos de Antigolpe/Alerta (Foco do design na venda, não na segurança radical). Área de Suporte em Destaque (O suporte geralmente é via chatbot e menu, exigindo esforço do idoso). Reputação/Atendimento (Sendo digital, a confiança pode ser menor para o idoso que valoriza o contato humano). Atendimento Especializado (Não é o foco principal do aplicativo). 
+
+### Sistema 3 – Banco BMG 
+
+#### Quais problemas o produto resolve? 
+
+Resolve a demanda por uma conta digital e Pix para um público que deseja serviços digitais, mas ainda valoriza o contato humano. Foca em oferecer conveniência digital sem abandonar completamente o suporte físico. 
+
+#### Como os problemas são resolvidos? 
+
+Através de um aplicativo digital (com Pix) complementado por uma rede estratégica de hubs de atendimento presencial (um diferencial de Atendimento Especializado e Reputação). O sistema tenta unir a modernidade do Pix com a segurança psicológica do contato físico. 
+
+#### Quais os pontos fortes e fracos dessas soluções? 
+
+Fortes (Baseados nas Variáveis): Reputação/Atendimento e Atendimento Especializado (O suporte físico mitiga a insegurança do idoso). Agilidade/Modernização (App digital eficaz). Uso de Biometria para Transações (Prática padrão). Fracos (Baseados em IHC/Foco no Idoso): Mecanismos de Antigolpe/Alerta (Alertas genéricos). Área de Suporte em Destaque (O suporte no app é prioritariamente digital e não um botão de pânico). Contatos/Chaves Favoritas (A interface não é exclusivamente focada no Pix, tornando o acesso à lista de contatos menos intuitivo). 
+
+### Sistema 4 – Banco Caixa 
+
+#### Quais problemas o produto resolve? 
+
+Resolve a necessidade de acesso digital a benefícios, aposentadorias e serviços sociais do governo (FGTS, PIS, etc.) para a maioria da população brasileira, incluindo idosos. O Pix é uma função secundária. 
+
+#### Como os problemas são resolvidos? 
+
+Através de um aplicativo multiuso e com alta carga de serviços obrigatórios. Os problemas são resolvidos por meio de uma navegação complexa e densa, que exige que o usuário idoso discrimine o Pix de inúmeras outras funcionalidades governamentais e bancárias. 
+
+#### Quais os pontos fortes e fracos dessas soluções? 
+
+Fortes (Baseados nas Variáveis): Reputação/Atendimento (Máxima confiança institucional, pois é o banco do governo). Atendimento Especializado (Ampla rede de agências físicas). Uso de Biometria para Transações (Funcionalidade presente). Fracos (Baseados em IHC/Foco no Idoso): Agilidade/Modernização (App historicamente lento e denso). Área de Suporte em Destaque (A função "Ajuda" é complexa e leva a inúmeros caminhos). Contatos/Chaves Favoritas (O Pix está escondido, exigindo navegação, violando a simplicidade). Mecanismos de Antigolpe/Alerta (Os alertas de segurança são genéricos e o design confuso aumenta a vulnerabilidade ao erro).
