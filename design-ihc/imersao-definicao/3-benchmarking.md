@@ -36,3 +36,20 @@ A visibilidade e o fácil acesso ao canal de ajuda/suporte (chat, telefone ou FA
 
 A funcionalidade que permite ou exige a autenticação de transferências Pix utilizando impressão digital ou reconhecimento facial, em vez da digitação de senhas numéricas. 
 
+## Definição dos Similares alvos 
+
+### Sistema 1: Banco Mercantil 
+
+O Banco Mercantil é um banco tradicional com um forte foco histórico no atendimento a aposentados e pensionistas do INSS. Sua presença digital e o aplicativo móvel incluem o Pix, mas a instituição mantém a confiança do público idoso pela sua reputação de longa data no crédito consignado e pelo potencial de acesso a atendimento físico. Seu aplicativo é multifuncional, e o Pix é apenas uma das muitas ferramentas, o que implica que a usabilidade para idosos deve competir com a complexidade de um sistema bancário completo. 
+
+### Sistema 2: Agibank 
+
+O Agibank é um banco digital que busca ser um facilitador de inclusão financeira, oferecendo o Pix e serviços bancários completos, mas com um diferencial físico estratégico: a manutenção de hubs ou pontos de atendimento em locais chave. Para o idoso, o Agibank representa um meio-termo: um aplicativo com Pix e isento de tarifas que oferece a segurança psicológica de um suporte presencial em caso de necessidade. No entanto, o aplicativo não é exclusivo para Pix e apresenta a complexidade de um banco digital convencional. 
+
+### Sistema 3: Banco BMG 
+
+O BMG é um banco digital com especialização em produtos consignados, sendo uma das contas digitais mais citadas como opção para o público idoso (aposentados e pensionistas). Embora seu aplicativo seja moderno e inclua o Pix de forma nativa, seu principal desafio em IHC é a alta densidade de informações e ofertas (como de crédito e investimentos) na interface. O Pix está integrado, mas a busca por simplicidade e a prioridade de segurança anti-golpe são ofuscadas pela necessidade do banco de vender outros produtos. 
+
+### Sistema 4: Banco Caixa 
+
+A Caixa é o banco público brasileiro de maior capilaridade, sendo responsável pelo pagamento da maioria dos benefícios sociais, aposentadorias e pensões. Por ser o banco de primeiro contato para muitos idosos (principalmente em relação ao recebimento de benefícios), é amplamente utilizado por esse público, embora muitas vezes via canais tradicionais (agências e caixas eletrônicos). Seu aplicativo móvel (Caixa) é extremamente complexo e multifuncional, e a navegação para o Pix é dificultada pela vasta gama de serviços disponíveis (FGTS, Habitação, Loterias, etc.), tornando-o um forte exemplo de alta complexidade e baixa usabilidade para a população idosa no ambiente digital. 
