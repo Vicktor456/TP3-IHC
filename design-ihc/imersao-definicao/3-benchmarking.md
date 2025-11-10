@@ -4,3 +4,35 @@ O Benchmarking é um processo estruturado de comparação que consiste em estuda
 
 ## Atributos Avaliados
 
+### 1. Contatos/Chaves Favoritas 
+
+Funcionalidade que permite ao usuário salvar e acessar rapidamente as chaves Pix de destinatários frequentes. 
+
+### 2. Mecanismos de Antigolpe/Alerta 
+
+Existência de avisos de segurança que se manifestam de forma proeminente durante ou antes de uma transação, alertando o usuário sobre práticas comuns de golpe (ex: "Você tem certeza de que este Pix é para um familiar em emergência?"). 
+
+### 3. Chatbot ou FAQ de Autoatendimento 
+
+A presença de um sistema de resposta automática (Chatbot) ou uma área de perguntas frequentes (FAQ) dentro do aplicativo para resolver dúvidas comuns do usuário. 
+
+### 4. Atendimento Especializado 
+
+A capacidade do sistema ou da instituição de fornecer suporte humano ou serviços adaptados ao público idoso, seja através de agências, hubs de atendimento, ou equipes de tutores (como no seu projeto). 
+
+### 5. Agilidade/Modernização 
+
+A velocidade de carregamento, a fluidez da interface e a atualidade do design do aplicativo. 
+
+### 6. Exclusividade Pix 
+
+O sistema é exclusivamente Pix (como o seu) ou é um App Bancário Completo? (Seu sistema ganha se for exclusivo, pois garante simplicidade). 
+
+### 7. Área de Suporte em Destaque 
+
+A visibilidade e o fácil acesso ao canal de ajuda/suporte (chat, telefone ou FAQ) a partir da tela inicial ou durante a transação. 
+
+### 8. Uso de Biometria para Transações 
+
+A funcionalidade que permite ou exige a autenticação de transferências Pix utilizando impressão digital ou reconhecimento facial, em vez da digitação de senhas numéricas. 
+
