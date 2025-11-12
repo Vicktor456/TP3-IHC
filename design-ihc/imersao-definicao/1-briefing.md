@@ -17,7 +17,8 @@ Todas as respostas foram registradas, analisadas e formalizadas, servindo como b
 
 ### Foto da Reunião com cliente
 
-<img width="800" height="555" alt="image" src="https://github.com/user-attachments/assets/0fb7dd36-a88e-49a3-ba45-80784e47e462" />
+![Imagem do WhatsApp de 2025-11-12 à(s) 10 49 47_3ca390d7](https://github.com/user-attachments/assets/f5fbe7fe-2ea6-4460-a47d-d2b3ede049cd)
+
 # 
 
 ### **Funcionalidade esperada**
