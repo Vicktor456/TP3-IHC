@@ -1,6 +1,6 @@
 # Moscow - Funcionalidades Gerais 
 
-### Lista de coleta de possíveis requisitos
+### Lista bruta do MOSCOW
 
 - Integrações com bancos digitais/carteira digitais nacionais.  
 
