@@ -122,4 +122,4 @@ Esta etapa visa transformar as observações e análises subjetivas em dados obj
 
 Essa matriz permitirá uma visualização rápida e eficiente de onde os concorrentes investem e, mais importante, de onde eles falham em atender aos requisitos de usabilidade e segurança para o público idoso. Ao destacar as lacunas de cada sistema, a matriz fornecerá a base empírica para a definição do design e dos diferenciais do seu sistema Pix exclusivo.
 
-https://www.notion.so/Benchmarking-29d71e2d25dc807f8456e862b3156e56?source=copy_link
+[Tabela de benchmarking no notion](https://www.notion.so/Benchmarking-29d71e2d25dc807f8456e862b3156e56?source=copy_link)
