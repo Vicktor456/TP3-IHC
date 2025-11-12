@@ -86,7 +86,13 @@ A Caixa é o banco público brasileiro de maior capilaridade, sendo responsável
 ## Estabelecimento de Indicadores e Obtenção de Dados 
 
 
-### Sistema 1 – Banco Mercantil 
+<h3 style="display: flex; align-items: center; justify-content: space-between;">
+  Sistema 1: Banco Mercantil
+  <img src="https://github.com/user-attachments/assets/4ae5e958-241b-4a8a-8e4c-6b84aec6041f"
+       alt="Logo Banco Mercantil"
+       width="55"
+       style="margin-left: 8px;">
+</h3> 
 
 #### Quais problemas o produto resolve? 
 
@@ -100,7 +106,13 @@ Através de um aplicativo de mobile banking completo que integra todas as funcio
 
 Fortes (Baseados nas Variáveis): Reputação/Atendimento (Confiança histórica no nicho idoso). Contatos/Chaves Favoritas (Funcionalidade padrão de mercado, provavelmente presente). Uso de Biometria para Transações (Recurso de segurança padrão). Fracos (Baseados em IHC/Foco no Idoso): Agilidade/Modernização (Design de aplicativo mais tradicional, menos focado em simplicidade radical). Mecanismos de Antigolpe/Alerta (Alertas tendem a ser genéricos). Área de Suporte em Destaque (Suporte não é o foco principal da tela inicial). Chatbot ou FAQ de Autoatendimento (Pode não ser intuitivo para o público idoso). 
 
-### Sistema 2 – Agibank 
+<h3 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <span style="line-height: 1;">Sistema 2: Agibank</span>
+  <img src="https://github.com/user-attachments/assets/d544ce03-eeff-4129-b290-c12bd52f2bc2"
+       alt="Logo Agibank"
+       width="40"
+       style="object-fit: contain; display: block;">
+</h3>
 
 #### Quais problemas o produto resolve? 
 
@@ -114,7 +126,13 @@ Através de um aplicativo digital moderno. O Pix é integrado, mas o sistema uti
 
 Fortes (Baseados nas Variáveis): Agilidade/Modernização (Design moderno, interface rápida). Uso de Biometria para Transações (Prática padrão em bancos digitais). Contatos/Chaves Favoritas (Funcionalidade Pix moderna e eficaz). Fracos (Baseados em IHC/Foco no Idoso): Mecanismos de Antigolpe/Alerta (Foco do design na venda, não na segurança radical). Área de Suporte em Destaque (O suporte geralmente é via chatbot e menu, exigindo esforço do idoso). Reputação/Atendimento (Sendo digital, a confiança pode ser menor para o idoso que valoriza o contato humano). Atendimento Especializado (Não é o foco principal do aplicativo). 
 
-### Sistema 3 – Banco BMG 
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  Sistema 3: Banco BMG
+  <img src="https://github.com/user-attachments/assets/f2192108-edaf-4843-bdff-1d5ae1f17ade"
+       alt="Logo Banco BMG"
+       width="50"
+       style="margin-left: 8px;">
+</h3>
 
 #### Quais problemas o produto resolve? 
 
@@ -128,7 +146,13 @@ Através de um aplicativo digital (com Pix) complementado por uma rede estratég
 
 Fortes (Baseados nas Variáveis): Reputação/Atendimento e Atendimento Especializado (O suporte físico mitiga a insegurança do idoso). Agilidade/Modernização (App digital eficaz). Uso de Biometria para Transações (Prática padrão). Fracos (Baseados em IHC/Foco no Idoso): Mecanismos de Antigolpe/Alerta (Alertas genéricos). Área de Suporte em Destaque (O suporte no app é prioritariamente digital e não um botão de pânico). Contatos/Chaves Favoritas (A interface não é exclusivamente focada no Pix, tornando o acesso à lista de contatos menos intuitivo). 
 
-### Sistema 4 – Banco Caixa 
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  Sistema 4: Banco Caixa
+  <img src="https://github.com/user-attachments/assets/dad2df36-c42b-406e-9ef6-2a936031baf4"
+       alt="Logo Banco BMG"
+       width="50"
+       style="margin-left: 8px;">
+</h3>
 
 #### Quais problemas o produto resolve? 
 
