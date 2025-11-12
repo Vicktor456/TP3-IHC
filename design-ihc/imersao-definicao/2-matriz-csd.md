@@ -16,7 +16,8 @@ Essa matriz ajuda a deixar claro o que já está definido, o que ainda precisa s
 Nesse processo, todas as respostas foram cuidadosamente catalogadas e analisadas, permitindo identificar os pontos mais relevantes da entrevista. A partir dessas discussões, a equipe definiu de forma colaborativa quais informações seriam classificadas como certezas, suposições e dúvidas, consolidando um panorama claro sobre o entendimento atual do projeto e os aspectos que ainda exigem investigação ou validação.
 
 
-
-
-
 <img width="1920" height="1080" alt="Matriz CSD" src="https://github.com/user-attachments/assets/efeb2307-cf3b-4d9e-b97b-ee1d6774fae0" />
+
+
+# Evidência da reunião de formulação da Matriz CSD
+![Imagem do WhatsApp de 2025-11-12 à(s) 09 25 04_516bbcd1](https://github.com/user-attachments/assets/c2269be2-2310-422c-8332-450e198fbb0a)
