@@ -114,4 +114,12 @@ Através de um aplicativo multiuso e com alta carga de serviços obrigatórios. 
 
 Fortes (Baseados nas Variáveis): Reputação/Atendimento (Máxima confiança institucional, pois é o banco do governo). Atendimento Especializado (Ampla rede de agências físicas). Uso de Biometria para Transações (Funcionalidade presente). Fracos (Baseados em IHC/Foco no Idoso): Agilidade/Modernização (App historicamente lento e denso). Área de Suporte em Destaque (A função "Ajuda" é complexa e leva a inúmeros caminhos). Contatos/Chaves Favoritas (O Pix está escondido, exigindo navegação, violando a simplicidade). Mecanismos de Antigolpe/Alerta (Os alertas de segurança são genéricos e o design confuso aumenta a vulnerabilidade ao erro).
 
+## Comparação das informações coletadas
+
+Após a definição clara do escopo do projeto, o levantamento de requisitos e a análise qualitativa dos sistemas bancários similares (Banco Mercantil, Agibank, BMG e Caixa), o próximo passo crucial na metodologia de benchmarking é a Comparação e Consolidação dos Dados.
+
+Esta etapa visa transformar as observações e análises subjetivas em dados objetivos e comparáveis. O objetivo é dispor os indicadores de IHC e segurança definidos (Contatos Favoritos, Mecanismos Anti-Golpe, Suporte, etc.) em uma matriz comparativa.
+
+Essa matriz permitirá uma visualização rápida e eficiente de onde os concorrentes investem e, mais importante, de onde eles falham em atender aos requisitos de usabilidade e segurança para o público idoso. Ao destacar as lacunas de cada sistema, a matriz fornecerá a base empírica para a definição do design e dos diferenciais do seu sistema Pix exclusivo.
+
 https://www.notion.so/Benchmarking-29d71e2d25dc807f8456e862b3156e56?source=copy_link
