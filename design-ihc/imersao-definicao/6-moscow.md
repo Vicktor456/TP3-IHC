@@ -2,6 +2,14 @@
 
 ### Lista bruta do MOSCOW
 
+- Tranferência Pix.
+
+- Botão de ajuda rápida em todas as telas, conectando o usuário ao suporte ou a um chatbot de auxílio.
+
+- Fornecer atalho de opções para o usuário, para acesso rápido a opções frequentemente utilizadas.
+
+- Autentificação de duas-etapas para transferência.
+
 - Integrações com bancos digitais/carteira digitais nacionais.  
 
 - Cartão de Débito Exclusivo do APP.  
@@ -32,11 +40,13 @@
 
 - Histórico de todas as transações realizadas no APP por data e horário 
 
-- Interface minimalista e intuitiva. 
+- Interface simplificada com suporte para personalização do tamanho ddas fontes, permitindo também alto contraste.
 
 - Educação financeira detalhada dentro do app. 
 
-- Central de ajuda com linguagem simples e vídeos explicativos curtos. 
+- Central de ajuda com linguagem simples e vídeos explicativos curtos.
+
+- Modo de ajuda familiar - permite que um familiar autorizado acesse remotamente para auxiliar o idoso em tempo real.
 
 - Sistema de reconhecimento de padrões de uso, que alerta se o usuário tentar algo fora do comum (prevenção de golpes). 
 
