@@ -113,3 +113,5 @@ Através de um aplicativo multiuso e com alta carga de serviços obrigatórios. 
 #### Quais os pontos fortes e fracos dessas soluções? 
 
 Fortes (Baseados nas Variáveis): Reputação/Atendimento (Máxima confiança institucional, pois é o banco do governo). Atendimento Especializado (Ampla rede de agências físicas). Uso de Biometria para Transações (Funcionalidade presente). Fracos (Baseados em IHC/Foco no Idoso): Agilidade/Modernização (App historicamente lento e denso). Área de Suporte em Destaque (A função "Ajuda" é complexa e leva a inúmeros caminhos). Contatos/Chaves Favoritas (O Pix está escondido, exigindo navegação, violando a simplicidade). Mecanismos de Antigolpe/Alerta (Os alertas de segurança são genéricos e o design confuso aumenta a vulnerabilidade ao erro).
+
+https://www.notion.so/Benchmarking-29d71e2d25dc807f8456e862b3156e56?source=copy_link
