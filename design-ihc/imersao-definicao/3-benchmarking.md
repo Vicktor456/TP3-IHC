@@ -38,19 +38,47 @@ A funcionalidade que permite ou exige a autenticação de transferências Pix ut
 
 ## Definição dos Similares alvos 
 
-### Sistema 1: Banco Mercantil 
+<h3 style="display: flex; align-items: center; justify-content: space-between;">
+  Sistema 1: Banco Mercantil
+  <img src="https://github.com/user-attachments/assets/4ae5e958-241b-4a8a-8e4c-6b84aec6041f"
+       alt="Logo Banco Mercantil"
+       width="55"
+       style="margin-left: 8px;">
+</h3>
+
 
 O Banco Mercantil é um banco tradicional com um forte foco histórico no atendimento a aposentados e pensionistas do INSS. Sua presença digital e o aplicativo móvel incluem o Pix, mas a instituição mantém a confiança do público idoso pela sua reputação de longa data no crédito consignado e pelo potencial de acesso a atendimento físico. Seu aplicativo é multifuncional, e o Pix é apenas uma das muitas ferramentas, o que implica que a usabilidade para idosos deve competir com a complexidade de um sistema bancário completo. 
 
-### Sistema 2: Agibank 
+<h3 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <span style="line-height: 1;">Sistema 2: Agibank</span>
+  <img src="https://github.com/user-attachments/assets/d544ce03-eeff-4129-b290-c12bd52f2bc2"
+       alt="Logo Agibank"
+       width="40"
+       style="object-fit: contain; display: block;">
+</h3>
+
 
 O Agibank é um banco digital que busca ser um facilitador de inclusão financeira, oferecendo o Pix e serviços bancários completos, mas com um diferencial físico estratégico: a manutenção de hubs ou pontos de atendimento em locais chave. Para o idoso, o Agibank representa um meio-termo: um aplicativo com Pix e isento de tarifas que oferece a segurança psicológica de um suporte presencial em caso de necessidade. No entanto, o aplicativo não é exclusivo para Pix e apresenta a complexidade de um banco digital convencional. 
 
-### Sistema 3: Banco BMG 
+
+
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  Sistema 3: Banco BMG
+  <img src="https://github.com/user-attachments/assets/f2192108-edaf-4843-bdff-1d5ae1f17ade"
+       alt="Logo Banco BMG"
+       width="50"
+       style="margin-left: 8px;">
+</h3>
 
 O BMG é um banco digital com especialização em produtos consignados, sendo uma das contas digitais mais citadas como opção para o público idoso (aposentados e pensionistas). Embora seu aplicativo seja moderno e inclua o Pix de forma nativa, seu principal desafio em IHC é a alta densidade de informações e ofertas (como de crédito e investimentos) na interface. O Pix está integrado, mas a busca por simplicidade e a prioridade de segurança anti-golpe são ofuscadas pela necessidade do banco de vender outros produtos. 
 
-### Sistema 4: Banco Caixa 
+<h3 style="display: flex; align-items: center; justify-content: center;">
+  Sistema 4: Banco Caixa
+  <img src="https://github.com/user-attachments/assets/dad2df36-c42b-406e-9ef6-2a936031baf4"
+       alt="Logo Banco BMG"
+       width="50"
+       style="margin-left: 8px;">
+</h3>
 
 A Caixa é o banco público brasileiro de maior capilaridade, sendo responsável pelo pagamento da maioria dos benefícios sociais, aposentadorias e pensões. Por ser o banco de primeiro contato para muitos idosos (principalmente em relação ao recebimento de benefícios), é amplamente utilizado por esse público, embora muitas vezes via canais tradicionais (agências e caixas eletrônicos). Seu aplicativo móvel (Caixa) é extremamente complexo e multifuncional, e a navegação para o Pix é dificultada pela vasta gama de serviços disponíveis (FGTS, Habitação, Loterias, etc.), tornando-o um forte exemplo de alta complexidade e baixa usabilidade para a população idosa no ambiente digital.
 
