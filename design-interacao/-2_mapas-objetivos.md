@@ -26,15 +26,16 @@ Com todos os objetivos principais definidos e descritos, avançamos para a segun
 
 ### **MP 1**
 <img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/1fa71083-8adf-4abd-9940-ae5126c72b48" />
+Explicação: Este diagrama, detalha a estrutura lógica para a realização de uma transação Pix, estabelecendo que a ação de acessar a opção de transação é o instrumento fundamental que habilita todas as tarefas subsequentes. Uma vez que o usuário entra nesta funcionalidade, o fluxo se desdobra em etapas manuais essenciais que incluem a escolha do destinatário, a definição do valor a ser transferido, a verificação cautelosa dos dados para evitar erros e a execução de uma autenticação dupla como medida de segurança.
 
 
 ### **MP 2**
 <img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/eb7ab8ed-a225-4b17-8c32-13c62457360a" />
-
+Explicação: O diagrama mapeia o processo de consulta financeira onde a funcionalidade de acesso ao histórico serve como instrumento para que o usuário (seja ele comum, com necessidades de acessibilidade ou um tutor) possa navegar pelo sistema. O fluxo de tarefas consiste em localizar a aba correta na interface, identificar o extrato do período desejado, selecionar uma transação individual dentro dessa lista e, por fim, verificar os dados detalhados daquela operação, sem que haja uma ação final de processamento por parte do sistema, caracterizando um processo de pura consulta.
 
 ### **MP 3**
 <img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/8045d689-20ed-4624-91fd-8b2819e3ef95" />
-
+Explicação: Este mapa de objetivos descreve o fluxo de solicitação de portabilidade de chave Pix, onde a funcionalidade de gerenciamento de chaves atua como o instrumento que habilita o usuário (incluindo perfis de acessibilidade e tutores) a transferir sua chave de outra instituição. O processo envolve etapas de navegação interna, como localizar o menu Pix e selecionar a opção de portabilidade, seguidas pela confirmação do pedido no banco atual. O diferencial deste fluxo é a etapa final obrigatória de validação externa, onde o usuário deve, proativamente, confirmar a liberação da chave no banco de origem para que o processo seja finalizado com sucesso.
 
 
 ### **MP 4**
