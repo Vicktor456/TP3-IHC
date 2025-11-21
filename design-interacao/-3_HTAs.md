@@ -60,3 +60,13 @@ Superada essa fase, o usuário visualiza avisos sobre os benefícios que serão 
 
 Para definir o limite de transação, o processo se inicia com o acesso à área específica de configuração de limites. O usuário deve, então, analisar os valores atuais para verificar se atendem à sua necessidade antes de inserir os novos montantes desejados.
 Para efetivar a mudança, é necessário autenticar e concluir a solicitação, o que pode ser feito por meio da senha de acesso ou autenticação biométrica. O fluxo é encerrado quando o usuário recebe a confirmação final de que a alteração foi realizada com sucesso.
+
+# Comparação: Mapa de Objetivos e HTAs
+
+## 1- Fazer transação pix
+
+<img width="1437" height="1026" alt="image" src="https://github.com/user-attachments/assets/ef4c4d4c-80d5-43f5-821d-b1f6541effc2" />
+
+## 2- Acessar histórico de transações 
+
+<img width="1338" height="1147" alt="image" src="https://github.com/user-attachments/assets/85e05902-e628-4a66-9f7c-9366f4aaa53d" />
