@@ -25,8 +25,37 @@ Com todos os objetivos principais definidos e descritos, avançamos para a segun
 ## Etapa 2 - Mapas de Objetivos dos Usuários
 
 **MP 1**
-<img width="4244" height="2264" alt="image" src="https://github.com/user-attachments/assets/3822460f-3731-4917-967f-ab0e19a004fc" />
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/1fa71083-8adf-4abd-9940-ae5126c72b48" />
 
 
+**MP 2**
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/eb7ab8ed-a225-4b17-8c32-13c62457360a" />
+
+
+**MP 3**
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/8045d689-20ed-4624-91fd-8b2819e3ef95" />
+
+
+
+**MP 4**
+<img width="3684" height="2124" alt="image" src="https://github.com/user-attachments/assets/d6ef5f56-8046-4b4b-9bad-31d0235a16b9" />
+
+
+
+**MP 5**
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/38913904-d7bb-45d1-a597-389aa42662b4" />
+
+
+**MP 6**
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/ea9551a9-7a4c-47df-8d93-f225a2d902da" />
+
+
+
+**MP 7**
+<img width="3684" height="1924" alt="image" src="https://github.com/user-attachments/assets/eaa4e656-9bd7-46f3-b74f-3c3e2ab25ac9" />
+
+
+**MP 8**
+<img width="3684" height="1928" alt="image" src="https://github.com/user-attachments/assets/dc0e12da-0216-45c8-b65d-8de12c3f694c" />
 
 
