@@ -70,3 +70,29 @@ Para efetivar a mudança, é necessário autenticar e concluir a solicitação, 
 ## 2- Acessar histórico de transações 
 
 <img width="1338" height="1147" alt="image" src="https://github.com/user-attachments/assets/85e05902-e628-4a66-9f7c-9366f4aaa53d" />
+
+## 3- Fazer portabilidade de chave pix
+
+<img width="1098" height="1011" alt="image" src="https://github.com/user-attachments/assets/f9522346-5a94-4c6b-a470-c4850ffabba8" />
+
+## 4- Cadastrar chave pix
+
+<img width="1862" height="1147" alt="image" src="https://github.com/user-attachments/assets/53b4f60e-fc3d-416e-8c71-02897a909544" />
+
+## 5- Excluir chave pix
+
+<img width="1243" height="1032" alt="image" src="https://github.com/user-attachments/assets/5842dbd4-53d3-4190-bf5a-4670a2cc2120" />
+
+## 6- Cadastrar biometria
+
+<img width="1182" height="996" alt="image" src="https://github.com/user-attachments/assets/18f5a9a7-f16f-453b-b5a7-ddb74b0eeefb" />
+
+## 7- Desativar ou excluir conta
+
+<img width="2298" height="968" alt="image" src="https://github.com/user-attachments/assets/d941b66c-e372-4d96-8130-c1d8d27755af" />
+
+## 8- Definir limite de transação
+
+<img width="961" height="1118" alt="image" src="https://github.com/user-attachments/assets/6887978b-17c8-4d0c-b426-134e30a82b36" />
+
+
