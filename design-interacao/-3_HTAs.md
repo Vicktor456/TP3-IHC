@@ -103,6 +103,8 @@ A análise do fluxo "Cadastrar Biometria" destaca a consistência lógica e oper
 
 <img width="2361" height="1006" alt="image" src="https://github.com/user-attachments/assets/5d3ae2d2-2efc-42d1-9274-b326ef66dd98" />
 
+A relação entre o Mapa de Objetivos e o HTA para "Desativar Conta" apresenta alta consistência, destacando-se pela segurança e conformidade. A estrutura do HTA cria "quebra-molas" cognitivos para garantir que o usuário não esteja clicando por impulso. Isso valida o papel do "Tutor" mencionado no mapa, facilitando a supervisão. Apesar das verificações adicionais, o fluxo leva exatamente ao desfecho proposto no mapa (o encerramento da conta), mas apenas se as condições de segurança forem satisfeitas.
+
 ## 8- Definir limite de transação
 
 <img width="1021" height="1076" alt="image" src="https://github.com/user-attachments/assets/e9cc5915-c227-4dc5-83b8-13c57f3b5ab2" />
