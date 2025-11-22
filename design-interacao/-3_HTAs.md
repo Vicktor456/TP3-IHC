@@ -96,6 +96,7 @@ A análise de consistência para "Excluir Chave Pix" revela um design focado em 
 ## 6- Cadastrar biometria
 
 <img width="1182" height="996" alt="image" src="https://github.com/user-attachments/assets/18f5a9a7-f16f-453b-b5a7-ddb74b0eeefb" />
+A análise do fluxo "Cadastrar Biometria" destaca a consistência lógica e operacional. O destaque deste par de diagramas é a consistência na tarefa de teste. O Mapa de Objetivos definiu a necessidade de testar. O HTA definiu a mecânica do teste (sair e entrar), garantindo que o objetivo não fosse apenas um desejo inalcançável na interface. No HTA não contradiz o mapa; ela o refina. Ela assegura que o objetivo de "Cadastrar biometria" só seja realizado por um usuário legítimo, prevenindo fraudes. O fluxo confirma o alinhamento com os perfis de usuário (UA/Idosos), pois a tarefa finaliza com o teste prático, dando segurança ao idoso de que ele não precisará mais digitar a senha nas próximas vezes.
 
 ## 7- Desativar ou excluir conta
 
