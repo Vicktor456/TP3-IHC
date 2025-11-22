@@ -65,45 +65,46 @@ Para efetivar a mudança, é necessário autenticar e concluir a solicitação, 
 
 ## 1- Fazer transação pix
 
-<img width="1437" height="1026" alt="image" src="https://github.com/user-attachments/assets/ef4c4d4c-80d5-43f5-821d-b1f6541effc2" />
+<img width="1791" height="1272" alt="image" src="https://github.com/user-attachments/assets/0d9ce9c5-d978-431d-893b-90e489bcf14f" />
 
 A comparação entre os diagramas evidencia um alinhamento total entre o que foi planejado (Mapa de Objetivos) e o que foi detalhado (HTA). A estrutura do HTA espelha fielmente o fluxo definido no Mapa de Objetivos, garantindo que cada interação do usuário tenha uma ação prática correspondente. O HTA adiciona profundidade apenas onde necessário, transformanddo objetivos abstratos em ações concretos de interface. Não existem tarefas sem propósito definido. O desing segue rigorosamente a hierarquia proposta, validando o fluxo para os perfis de usuário mapeados (incluindo acessibilidade e tutoria). 
 
 ## 2- Acessar histórico de transações 
 
-<img width="1338" height="1147" alt="image" src="https://github.com/user-attachments/assets/85e05902-e628-4a66-9f7c-9366f4aaa53d" />
+<img width="1401" height="1172" alt="image" src="https://github.com/user-attachments/assets/e41c8f11-d796-45c5-a748-3b6778de0212" />
 
 A relação entre o Mapa de Objetivo e o HTA para o "histórico de transações" apresenta alta consistência. O HTA não apenas repete os objetivos, mas resolve problemas de interação. Por exemplo, o objetivo "Identificar o extrato" foi corretamente desdobrado em opções de filtragem, o que é essencial para um histórico que pode ser longo. Enquanto o Mapa de Objetivo foca na cognição, o HTA avança para a ção final útil, garantindo que a verificação tenha utilidade prátic para o usuário. A ordem lógica de Localizar > Buscar > Abrir > Conferir foi mantida integralmente, assegurando que o modelo mental projetado no mapa seja respeitado na navegação.
 
 ## 3- Fazer portabilidade de chave pix
 
-<img width="1098" height="1011" alt="image" src="https://github.com/user-attachments/assets/f9522346-5a94-4c6b-a470-c4850ffabba8" />
+<img width="1221" height="1092" alt="image" src="https://github.com/user-attachments/assets/c12bd3b3-4d23-4b60-956a-f53edd20fb73" />
 
 A análise de consistência para a "Portabilidade de Chave Pix" revela um alinhamento robusto com atenção especial à interoperabilidade. O destaque deste par de diagramas é a consistência na tratativa da validação externa. O Mapa de Objetivos previu a necessidade de ir ao "banco de origem", e o HTA detalhou rigorosamente os passos dessa troca de contexto (sair de um app e entrar em outro). O HTA preencheu as lacunas "invisíveis" do mapa de objetivos, como a necessidade de digitar a chave e a necessidade de aguardar o processamento, sem contradizer o fluxo original. O HTA adicionou um passo final para fechar cognitivamente a tarefa, confirmando ao usuário que o objetivo do mapa ("Fazer portabilidade") foi atingido com sucesso.
 
 ## 4- Cadastrar chave pix
 
-<img width="1862" height="1147" alt="image" src="https://github.com/user-attachments/assets/53b4f60e-fc3d-416e-8c71-02897a909544" />
+<img width="1931" height="1182" alt="image" src="https://github.com/user-attachments/assets/a35cc3e1-1945-4488-acef-f6147156ea67" />
 
 A análise de consistência para o "Cadastro de Chave Pix" demonstra um refinamento de segurança e usabilidade. O Mapa de Objetivos traça o "caminho feliz" simplificado. O HTA, corretamente, insere as etapas de validação por token. O HTA evoluiu o conceito de "senha" do mapa para "Confirmação de Segurança", permitindo o uso de biometria, o que é crucial para os perfis de acessibilidade e idosos mapeados no projeto.
 
 ## 5- Excluir chave pix
 
-<img width="1243" height="1032" alt="image" src="https://github.com/user-attachments/assets/5842dbd4-53d3-4190-bf5a-4670a2cc2120" />
+<img width="1311" height="1001" alt="image" src="https://github.com/user-attachments/assets/932d3f1d-491a-429d-824e-4529994c8118" />
 
 A análise de consistência para "Excluir Chave Pix" revela um design focado em segurança e prevenção de erros. O HTA reconhece que, para o perfil de usuário definido (idosos), um clique acidental no botão "Excluir" do mapa não deve deletar a chave imediatamente. A inclusão da escolha entre "Sim/Não" valida o design seguro. A estrutura sequencial foi mantida, garantindo que o fluxo mental planejado no mapa seja executado na prática.
 
 ## 6- Cadastrar biometria
 
-<img width="1182" height="996" alt="image" src="https://github.com/user-attachments/assets/18f5a9a7-f16f-453b-b5a7-ddb74b0eeefb" />
+<img width="1251" height="1021" alt="image" src="https://github.com/user-attachments/assets/6fac2d26-8bbb-4b30-8caa-d8a4c3979102" />
+
 A análise do fluxo "Cadastrar Biometria" destaca a consistência lógica e operacional. O destaque deste par de diagramas é a consistência na tarefa de teste. O Mapa de Objetivos definiu a necessidade de testar. O HTA definiu a mecânica do teste (sair e entrar), garantindo que o objetivo não fosse apenas um desejo inalcançável na interface. No HTA não contradiz o mapa; ela o refina. Ela assegura que o objetivo de "Cadastrar biometria" só seja realizado por um usuário legítimo, prevenindo fraudes. O fluxo confirma o alinhamento com os perfis de usuário (UA/Idosos), pois a tarefa finaliza com o teste prático, dando segurança ao idoso de que ele não precisará mais digitar a senha nas próximas vezes.
 
 ## 7- Desativar ou excluir conta
 
-<img width="2298" height="968" alt="image" src="https://github.com/user-attachments/assets/d941b66c-e372-4d96-8130-c1d8d27755af" />
+<img width="2361" height="1006" alt="image" src="https://github.com/user-attachments/assets/5d3ae2d2-2efc-42d1-9274-b326ef66dd98" />
 
 ## 8- Definir limite de transação
 
-<img width="961" height="1118" alt="image" src="https://github.com/user-attachments/assets/6887978b-17c8-4d0c-b426-134e30a82b36" />
+<img width="1021" height="1076" alt="image" src="https://github.com/user-attachments/assets/e9cc5915-c227-4dc5-83b8-13c57f3b5ab2" />
 
 
