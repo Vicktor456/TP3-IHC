@@ -67,6 +67,8 @@ Para efetivar a mudança, é necessário autenticar e concluir a solicitação, 
 
 <img width="1437" height="1026" alt="image" src="https://github.com/user-attachments/assets/ef4c4d4c-80d5-43f5-821d-b1f6541effc2" />
 
+A comparação entre os diagramas evidencia um alinhamento total entre o que foi planejado (Mapa de Objetivos) e o que foi detalhado (HTA). A estrutura do HTA espelha fielmente o fluxo definido no Mapa de Objetivos, garantindo que cada interação do usuário tenha uma ação prática correspondente. O HTA adiciona profundidade apenas onde necessário, transformanddo objetivos abstratos em ações concretos de interface. Não existem tarefas sem propósito definido. O desing segue rigorosamente a hierarquia proposta, validando o fluxo para os perfis de usuário mapeados (incluindo acessibilidade e tutoria). 
+
 ## 2- Acessar histórico de transações 
 
 <img width="1338" height="1147" alt="image" src="https://github.com/user-attachments/assets/85e05902-e628-4a66-9f7c-9366f4aaa53d" />
