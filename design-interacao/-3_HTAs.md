@@ -73,6 +73,8 @@ A comparação entre os diagramas evidencia um alinhamento total entre o que foi
 
 <img width="1338" height="1147" alt="image" src="https://github.com/user-attachments/assets/85e05902-e628-4a66-9f7c-9366f4aaa53d" />
 
+A relação entre o Mapa de Objetivo e o HTA para o "histórico de transações" apresenta alta consistência. O HTA não apenas Enquanto o Mapa de Objetivo foca na cognição, o HTA avança para a ção final útil, garantindo que a verificação tenha utilidade prátic para o usuário
+
 ## 3- Fazer portabilidade de chave pix
 
 <img width="1098" height="1011" alt="image" src="https://github.com/user-attachments/assets/f9522346-5a94-4c6b-a470-c4850ffabba8" />
