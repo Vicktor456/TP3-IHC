@@ -109,4 +109,6 @@ A relação entre o Mapa de Objetivos e o HTA para "Desativar Conta" apresenta a
 
 <img width="1021" height="1076" alt="image" src="https://github.com/user-attachments/assets/e9cc5915-c227-4dc5-83b8-13c57f3b5ab2" />
 
+A análise do fluxo "Definir Limite" destaca a consistência na tomada de decisão.
+
 
