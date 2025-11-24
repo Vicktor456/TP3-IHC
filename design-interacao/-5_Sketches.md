@@ -18,6 +18,9 @@
 
 ## Transação PIX
 
-<img width="10936" height="13720" alt="Transação Pix Molic 1" src="https://github.com/user-attachments/assets/87dbf07f-f437-4684-b119-c71fe5040ce3" />
+<img width="9512" height="12024" alt="Transação PIX" src="https://github.com/user-attachments/assets/9e856695-c9fd-4473-a035-3901140a60d1" />
+
 
 ## Acessar Historico de Transação
+
+<img width="5772" height="11616" alt="Acessar Historico" src="https://github.com/user-attachments/assets/badc4388-0a74-4f80-9bd6-22503f59240a" />
