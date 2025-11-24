@@ -109,6 +109,6 @@ A relação entre o Mapa de Objetivos e o HTA para "Desativar Conta" apresenta a
 
 <img width="1021" height="1076" alt="image" src="https://github.com/user-attachments/assets/e9cc5915-c227-4dc5-83b8-13c57f3b5ab2" />
 
-A análise do fluxo "Definir Limite" destaca a consistência na tomada de decisão.
+A comparação entre os artefatos confirma que o design para a definição de limites de transação manteve uma alta consistência entre o planejamento estratégico e a execução operacional. O HTA refinou o objetivo passivo de visualização presente no mapa, convertendo-o em uma etapa ativa de análise e verificação de necessidade, o que incentiva a reflexão do usuário antes da mudança. Além disso, o detalhamento das opções de autenticação, incluindo a biometria, e a inclusão do feedback final de sucesso demonstram um cuidado especial com a acessibilidade e a segurança, garantindo que o usuário tenha controle total e certeza sobre as alterações realizadas.
 
 
