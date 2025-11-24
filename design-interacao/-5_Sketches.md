@@ -24,7 +24,10 @@ O protótipo final reúne as soluções mais eficazes desenvolvidas ao longo do 
 
 <img width="9512" height="12024" alt="Transação PIX" src="https://github.com/user-attachments/assets/9e856695-c9fd-4473-a035-3901140a60d1" />
 
+Os sketches materializam a lógica abstrata do diagrama MoLic, traduzindo a 'conversa' planejada em interfaces do aplicativo 'SeuPix'. Embora sigam fielmente a estrutura do diagrama, os desenhos aplicam uma melhoria de usabilidade ao desmembrar a cena lógica de 'verificar e autenticar' em duas telas distintas (revisão e senha), o que reduz a carga cognitiva do usuário. Além disso, enquanto o MoLic mapeia tecnicamente os erros e exceções, os sketches priorizam a visualização do 'Caminho Feliz', ilustrando a fluidez da interação ideal.
 
 ## Acessar Historico de Transação
 
 <img width="5772" height="11616" alt="Acessar Historico" src="https://github.com/user-attachments/assets/badc4388-0a74-4f80-9bd6-22503f59240a" />
+
+Os sketches apresentados materializam a lógica de acesso ao histórico planejada no diagrama MoLic. A tela inicial 'SeuPix' é ponto de partida, onde a ação lógica de 'acessar histórico' é concretizada pelo ícone na barra de navegação inferior, levando diretamente à tela de listagem cronológica prevista no modelo. Ao comparar as representações, nota-se que o sketch adicona detalhes a cena 'Visualizar histórico' com elementos de UX valiosos.
