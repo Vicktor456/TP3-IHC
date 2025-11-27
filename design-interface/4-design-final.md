@@ -1,3 +1,3 @@
-# Nome e Logotipo
+# Design Final
 
-O Nome e o Logotipo são a essência da identidade da marca, servindo como o primeiro ponto de contato e a representação visual memorável do aplicativo. O desafio é que essa identidade transcenda a beleza estética, carregando um conceito visual e semântico profundo. Nesta seção, demonstramos como a combinação estratégica de cor, forma e tipografia funciona sinergicamente para comunicar, de maneira instantânea e clara, a proposta de valor e a personalidade do produto ao seu público-alvo.
+A seção de Design Final representa a consolidação da jornada de design, onde a estética e o conceito se unem à usabilidade, à comunicabilidade e à coerência visual da interface. Para validar a qualidade da experiência do usuário, é essencial aplicar as Heurísticas de Nielsen, que fornecem um guia robusto de princípios de usabilidade. Nesta etapa, demonstramos como o design implementado adere a essas heurísticas—explicando especificamente onde e como cada princípio, como a Visibilidade do estado do sistema ou a Correspondência entre o sistema e o mundo real, se manifesta em elementos práticos da interface para criar um produto intuitivo e eficaz.
