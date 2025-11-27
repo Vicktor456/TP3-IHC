@@ -1,1 +1,3 @@
 # Mural de Inspiração
+
+O Mural de Inspiração (ou Moodboard) é uma ferramenta fundamental no estágio inicial do design de interface (UI/UX). Ele funciona como uma bússola visual, reunindo imagens, texturas, tipografias, paletas de cores e capturas de tela de referência que definem a estética, o clima e a personalidade que o aplicativo deve transmitir. Ao consolidar referências visuais que evocam os sentimentos e as experiências desejadas (sejam eles confiança, modernidade, leveza ou sofisticação), o moodboard assegura que toda a equipe de design e desenvolvimento compartilhe uma visão coerente e unificada antes de iniciar a produção, garantindo que a interface final comunique o conceito da marca de forma eficaz ao usuário.
