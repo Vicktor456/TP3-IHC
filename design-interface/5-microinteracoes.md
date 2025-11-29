@@ -1,3 +1,0 @@
-# MicroInterações
-
-Microinterações são pequenos momentos de feedback visual que transformam a experiência do usuário de funcional para agradável, sendo essenciais para a percepção de um produto polido e responsivo. O uso de vídeos curtos e GIFs de micro animações eleva essa prática, pois introduz dinamismo e riqueza visual em elementos cotidianos como botões, transições de estado ou confirmações de sucesso. Essas animações não servem apenas para embelezar, mas têm funções cruciais de comunicabilidade: elas indicam o estado do sistema, direcionam sutilmente a atenção do usuário para o próximo passo lógico e oferecem uma sensação imediata de conclusão, humanizando a interface e construindo uma experiência mais envolvente.
