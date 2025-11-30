@@ -5,3 +5,8 @@ A Paleta de Cores é um dos elementos mais importantes e emocional da identidade
 # Tipografia
 
 A Tipografia é a voz textual da interface e um componente essencial, definindo a clareza e a legibilidade de todo o aplicativo. Mais do que apenas estética, a escolha da fonte influencia diretamente a experiência do usuário, determinando quão fácil é absorver informações complexas ou identificar chamadas para ação. Ao selecionar tipografias sans-serif limpas e modernas, nosso objetivo é garantir profissionalismo e eficiência, utilizando o peso e o tamanho das letras para estabelecer uma hierarquia visual sólida que guie o olhar do usuário com precisão por todas as telas do sistema.
+
+# Paleta de cores principal e secundaria.
+
+<img width="755" height="457" alt="image" src="https://github.com/user-attachments/assets/79fbb7f2-9d48-4daf-b042-d82f583d31db" />
+
