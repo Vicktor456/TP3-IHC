@@ -51,3 +51,35 @@ O sistema implementa a heurística 5 de prevenção de erros, adotando uma abord
 <img width="6183" height="3297" alt="Heuristica 6" src="https://github.com/user-attachments/assets/a18e96b4-0a55-4c6c-b748-972bb52f3036" />
 
 O sistema aplica a heurística de reconhecimento em vez de lembrança através de um posicionamento estratégico e intuitivo das funcionalidades, que estão dispostas exatamente onde o olhar do usuário procura. Ao manter os principais recursos visíveis e acessíveis — como os botões de ação rápida na tela inicial e o menu de navegação inferior fixo —, a interface elimina a carga cognitiva de ter que decorar caminhos complexos ou menus ocultos. Graças a essa organização lógica, o usuário consegue se adaptar e dominar o sistema com pouquíssimo tempo de uso, pois ele opera reconhecendo visualmente as opções disponíveis em vez de precisar lembrar de cabeça como chegar até elas.
+
+### 7 - Flexibilidade e eficiência de uso
+
+"O sistema deve atender tanto usuários inexperientes quanto experientes. Atalhos — muitas vezes despercebidos pelos iniciantes — podem acelerar a interação para quem já domina a ferramenta." Esta heurística trata de permitir que o usuário personalize ou agilize tarefas frequentes. Enquanto um usuário novo precisa de um passo a passo detalhado, um usuário recorrente quer fazer a mesma coisa com menos cliques.
+
+<img width="6183" height="3297" alt="Heuristica 6" src="https://github.com/user-attachments/assets/a18e96b4-0a55-4c6c-b748-972bb52f3036" />
+
+Considerando que o nosso público-alvo é composto majoritariamente por usuários inexperientes, a heurística 7 de flexibilidade e eficiência de uso não foi o foco central do nosso design, pois a introdução de atalhos complexos ou modos avançados poderia gerar confusão em vez de agilidade. No entanto, aplicamos este princípio de forma estratégica e simplificada na barra de navegação fixa na parte inferior da tela. Ao permitir que o usuário alterne instantaneamente entre áreas cruciais como "Início", "Perfil" e "Suporte" com um único toque, independentemente de onde esteja, garantimos uma eficiência de navegação que agiliza o uso do sistema sem comprometer a simplicidade essencial para o nosso perfil de usuário.
+
+### 8 - Design estético e minimalista
+
+"As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação na tela compete com a informação relevante, diminuindo a sua visibilidade relativa." Esta heurística não se trata apenas de fazer o design "ficar bonito", mas de garantir que o foco do usuário esteja no que realmente importa. O objetivo é remover o ruído visual (decorações excessivas, textos longos desnecessários) para reduzir a carga cognitiva, facilitando a tomada de decisão.
+
+<img width="6183" height="3297" alt="Heuristica 8" src="https://github.com/user-attachments/assets/23aae4b0-1613-4ef4-95fa-907895b63b18" />
+
+O design do sistema aplica muito bem a heurística 8 de design estético e minimalista, pois remove qualquer elemento visual desnecessário que possa competir pela atenção do usuário. As telas são limpas, utilizando uma paleta de cores consistente e agradável que não cansa a vista, e apresentam apenas as informações essenciais para a tomada de decisão em cada etapa. O uso estratégico de espaços em branco (respiro) entre os botões e a tipografia de fácil leitura garantem que o foco do usuário permaneça exclusivamente na tarefa principal, eliminando ruídos visuais e tornando a interface não apenas esteticamente harmoniosa, mas altamente funcional para o público-alvo.
+
+### 9 - Reconhecer, diagnosticar e se recuperar de erros
+
+"As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro obscuros), indicar com precisão qual é o problema e, o mais importante, sugerir uma solução construtiva." Esta heurística defende que, quando algo dá errado, o sistema não deve deixar o usuário confuso ou assustado. Em vez de mostrar "Erro 0x004", o sistema deve explicar o ocorrido de forma educada e dizer exatamente como resolver.
+
+<img width="4695" height="3297" alt="Heuristica 9" src="https://github.com/user-attachments/assets/93966a58-05fe-4060-9307-6776a174cac4" />
+
+Em vez de apenas bloquear o usuário com avisos genéricos, as telas especificam com clareza e em linguagem simples qual é o problema exato (como "Senha Incorreta" ou "Saldo Insuficiente") e indicam imediatamente o passo a passo para resolvê-lo. Seja oferecendo um botão prático para "Tente Outro Valor" ou explicando que é necessário transferir o saldo restante antes de encerrar a conta, a interface fornece a solução junto com o diagnóstico, permitindo que o usuário se recupere do erro rapidamente e continue navegando com confiança.
+
+### 10 - Ajuda e Documentação
+
+"O melhor sistema é aquele que não precisa de ajuda, mas se for necessária, ela deve estar fácil de encontrar e focada na tarefa." Esta heurística reconhece que, por mais intuitiva que seja uma interface, os usuários (especialmente em situações novas ou complexas) podem precisar de assistência. A documentação não deve ser um manual gigante, mas sim um recurso de apoio rápido que lista passos concretos para resolver um problema específico.
+
+<img width="6204" height="3297" alt="Heuristica 10" src="https://github.com/user-attachments/assets/2157618e-e787-460f-8609-c4be1eafc788" />
+
+Embora o nosso principal esforço de design tenha sido criar uma interface tão intuitiva que dispensasse a necessidade de manuais ou ajuda externa, reconhecemos a importância da Heurística 10 em processos mais críticos. Por isso, aplicamos este princípio integrando a "documentação" diretamente nas telas, por meio de textos explicativos claros e objetivos. Em situações sensíveis, como a portabilidade de chaves ou o encerramento da conta, o sistema fornece parágrafos orientadores que explicam exatamente o que está acontecendo e quais são as consequências daquela ação. Dessa forma, a ajuda é entregue de forma contextual, permitindo que o usuário entenda o cenário e tome decisões informadas sem precisar sair do fluxo para buscar suporte.
