@@ -1,6 +1,6 @@
 # Ícones e Ilustrações
 
-Ícones e ilustrações são elementos cruciais da interface, atuando como a linguagem visual não-verbal do aplicativo.O desafio é garantir não apenas uma estética coesa, mas principalmente a consistência semântica: o mesmo signo visual deve invocar a mesma função ou significado em toda a experiência. Sob a ótica da comunicabilidade, cada ícone escolhido precisa ser um signo universalmente reconhecível que expresse instantaneamente a intenção de uma ação (o affordance) e forneça feedback claro ao usuário, simplificando a navegação e reduzindo a carga cognitiva.
+
 
 <img width="683" height="582" alt="image" src="https://github.com/user-attachments/assets/1909ca92-6456-43a3-9a60-dbff35f375a5" />
 
