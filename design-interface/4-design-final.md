@@ -63,3 +63,9 @@ Ao iniciar uma videochamada, o usuário é levado para uma tela de conexão, aco
 Na chamada de voz, a interface mantém a simplicidade, exibindo apenas o avatar do tutor e um botão de encerramento bem posicionado, preservando o foco total na comunicação.
 Por fim, a opção de mensagem de texto leva o usuário a uma interface de chat estruturada com balões de conversa alternados, ícones identificando remetentes e uma barra inferior para digitação, envio e mensagens de áudio. O layout é organizado e amplo, garantindo legibilidade e conforto durante o uso contínuo.
 Assim como todas as outras áreas do sistema, o suporte mantém coerência visual, harmonia de cores e iconografia padronizada, assegurando que o usuário reconheça imediatamente o estilo do aplicativo e se sinta seguro enquanto busca ajuda ou orientação dos tutores.
+
+# Protótipo Interativo no Figma
+Após a construção de todas as telas e definição completa das interações, é apresentado o protótipo interativo e funcional desenvolvido no Figma. O link disponibilizado reúne todas as telas exibidas, incluindo fluxos de navegação, ações, transições e comportamentos definidos nas fases anteriores do projeto.
+O protótipo permite visualizar, de forma prática, como o sistema funciona em sua totalidade, demonstrando a experiência final planejada para o usuário.
+
+Link do Figma: https://www.figma.com/proto/vcrbiC3onSjspYar4HKSVj/Telas-Oficiais--SeuPix-?node-id=0-1&t=ujcFAcQ8qILbVB1q-1
