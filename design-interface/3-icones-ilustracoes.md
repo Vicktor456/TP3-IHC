@@ -4,13 +4,7 @@
 
 <img width="683" height="582" alt="image" src="https://github.com/user-attachments/assets/1909ca92-6456-43a3-9a60-dbff35f375a5" />
 
-Sob a ótica da Engenharia Semiótica e da Comunicabilidade, a escolha dos ícones nesta interface não é aleatória; ela busca reduzir a curva de aprendizado do usuário através de metáforas visuais diretas. A interface utiliza signos que conectam o mundo digital (abstrato) ao mundo físico (concreto), facilitando a compreensão imediata das intenções de cada botão.
 
-- Icone de Histórico: É a representação de uma folha de papel com linhas horizontais e bordas serrilhas ou enroladas. Transmite a ideia de um comprovante fiscal ou extrato. "Histórico de transações" é um conceito de banco de dados (abstrato). O ícone traduz isso para "aquela notinha de papel que você recebe após uma compra". O usuário entende instantaneamente que ali verá o registro do passado.
-  
-- Icone de Minhs Chaves: No sistema bancário, uma "Chave Pix" é um conceito abstrato de banco de dados (um alias ou apelido para sua conta, como CPF ou e-mail). O ícone realiza a materialização desse dado.A escolha do ícone segue estritamente a nomenclatura do produto ("Chave"). Isso cria uma redundância positiva: o texto diz "Chave" e a imagem mostra uma "Chave". Isso elimina qualquer ambiguidade cognitiva; o usuário não precisa interpretar, apenas reconhecer. O ícone reforça a ideia de que aqueles dados (CPF, Celular) são propriedades exclusivas do usuário, ferramentas que ele controla para direcionar recursos para si.
-
-- Icone Pix: O losango estilizado oficial do Banco Central. Acesso direto à função principal de transferência. É um signo de reconhecimento instantâneo. Não exige interpretação; é uma leitura direta. O usuário não precisa "adivinhar" o que o botão faz, pois o símbolo já foi aprendido fora do aplicativo.
 
 - Icone Início: A silhueta de uma casa, Retorno ao ponto de partida / segurança / base.
 
