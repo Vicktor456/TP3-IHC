@@ -2,7 +2,7 @@
 
 Ícones e ilustrações são elementos cruciais da interface, atuando como a linguagem visual não-verbal do aplicativo.O desafio é garantir não apenas uma estética coesa, mas principalmente a consistência semântica: o mesmo signo visual deve invocar a mesma função ou significado em toda a experiência. Sob a ótica da comunicabilidade, cada ícone escolhido precisa ser um signo universalmente reconhecível que expresse instantaneamente a intenção de uma ação (o affordance) e forneça feedback claro ao usuário, simplificando a navegação e reduzindo a carga cognitiva.
 
-<img width="600" height="505" alt="image" src="https://github.com/user-attachments/assets/9e6c3044-6726-4e11-bf0d-0b6ac35df3ff" />
+<img width="683" height="582" alt="image" src="https://github.com/user-attachments/assets/1909ca92-6456-43a3-9a60-dbff35f375a5" />
 
 Sob a ótica da Engenharia Semiótica e da Comunicabilidade, a escolha dos ícones nesta interface não é aleatória; ela busca reduzir a curva de aprendizado do usuário através de metáforas visuais diretas. A interface utiliza signos que conectam o mundo digital (abstrato) ao mundo físico (concreto), facilitando a compreensão imediata das intenções de cada botão.
 
